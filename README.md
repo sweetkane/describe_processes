@@ -15,7 +15,7 @@ Allows users to generate a CSV with helpful descriptions of their active process
 
 ## TODO
 * Add functionality for other OS
-* Add functionality for other python configurations
+* Package for [distribution](https://packaging.python.org/en/latest/tutorials/packaging-projects/)
 
 ___
 A project by Kane Sweet. 
