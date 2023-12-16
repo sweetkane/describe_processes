@@ -8,7 +8,7 @@ Allows users to generate a CSV with helpful descriptions of their active process
 3. Wait for process to complete
 4. Open `/path/to/repo/process_descriptions.csv`
 
-## Supports Users With
+## Supports
 * MacOS
 * Python3 with Homebrew installation
 * OpenAI API environment variable set
@@ -18,4 +18,4 @@ Allows users to generate a CSV with helpful descriptions of their active process
 * Package for [distribution](https://packaging.python.org/en/latest/tutorials/packaging-projects/)
 
 ___
-A project by Kane Sweet. 
+Project by Kane Sweet. 
